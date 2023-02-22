@@ -1,6 +1,6 @@
 
 print("What proces do you need??")
-print("[1] = Convert IP do binary")
+print("[1] = Convert IP to binary")
 print("[2] = Convert Binary ip to decial")
 procces = int(input("Proces ID:"))
 
