@@ -1,7 +1,7 @@
 
-print("What proces do you need??")
+print("What process do you need??")
 print("[1] = Convert IP to binary")
-print("[2] = Convert Binary ip to decial")
+print("[2] = Convert binary ip to decial")
 procces = int(input("Proces ID:"))
 
 if procces == 1:
